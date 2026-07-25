@@ -1,10 +1,8 @@
 <div align="center">
 
-# Edwin Pedraza
+<img src="./assets/banner.svg" width="100%" alt="Edwin Pedraza — Business Analytics, Automation and AI" />
 
-### Business Analytics Engineer · AI & Automation Developer
-
-I build practical solutions that transform business data into clear decisions and repetitive processes into intelligent automation.
+<br />
 
 [![EP Analytics](https://img.shields.io/badge/EP_Analytics-Visit_Website-0A66C2?style=for-the-badge&logo=googleanalytics&logoColor=white)](https://epanalytics.cloud/en)
 [![Developer Portfolio](https://img.shields.io/badge/Developer_Portfolio-View_Projects-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.epanalytics.cloud/)
@@ -18,63 +16,66 @@ I build practical solutions that transform business data into clear decisions an
 
 ## About me
 
-I am a Systems Engineer and Business Analytics professional focused on designing solutions across **data analytics, reporting, workflow automation and AI-assisted development**.
+I am a **Systems Engineer and Business Analytics professional** focused on designing practical solutions across data analytics, reporting, process automation and AI-assisted development.
 
-My work combines business understanding with technical implementation. I use tools such as Power BI, SQL, Power Query, Power Automate, Python and modern AI platforms to improve visibility, reduce manual effort and create repeatable operational processes.
+I combine business understanding with technical implementation to improve visibility, reduce manual effort and create reliable operational processes. My work includes Power BI dashboards, data modelling, workflow automation, Python utilities, API integrations and AI-enabled experimentation.
 
-I also maintain a practical technical lab using Docker, Linux and Raspberry Pi 5 to deploy, test and document automation services and AI workflows.
+I also maintain a practical technical lab using Docker, Linux and Raspberry Pi 5 to deploy, test and document automation services and intelligent workflows.
 
 ---
 
 ## What I build
 
-| Area | Solutions |
-|---|---|
-| 📊 **Business Analytics** | Dashboards, KPI frameworks, data models and management reporting |
-| ⚙️ **Process Automation** | Automated reporting, approvals, notifications and operational workflows |
-| 🤖 **AI Solutions** | AI-assisted development, agents, task orchestration and workflow experimentation |
-| 💻 **Technical Development** | Python utilities, API integrations, scripts and internal tools |
-| 🐳 **Automation Lab** | Docker services, Linux environments and Raspberry Pi 5 deployments |
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="./assets/analytics-card.svg" width="100%" alt="Business Analytics" />
+</td>
+<td width="50%" valign="top">
+<img src="./assets/automation-card.svg" width="100%" alt="Process Automation" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="./assets/ai-card.svg" width="100%" alt="AI Solutions" />
+</td>
+<td width="50%" valign="top">
+<img src="./assets/homelab-card.svg" width="100%" alt="Technical Lab" />
+</td>
+</tr>
+</table>
 
 ---
 
-## Featured work
+## Featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
+<a href="https://epanalytics.cloud/en">
+<img src="./assets/epanalytics-card.svg" width="100%" alt="EP Analytics" />
+</a>
 
-### 🌐 EP Analytics
+<br />
 
-A business analytics platform created to present solutions, services and practical content around analytics, reporting, automation and AI.
+A business analytics platform presenting practical solutions and content around analytics, reporting, automation and AI.
 
-**Focus:**
-
-- Business intelligence
-- Data analytics
-- Process improvement
-- Automation
-- AI-enabled solutions
+**Focus:** Business intelligence · Data analytics · Process improvement · Automation · AI-enabled solutions
 
 [Visit EP Analytics →](https://epanalytics.cloud/en)
-
 </td>
 <td width="50%" valign="top">
+<a href="https://portfolio.epanalytics.cloud/">
+<img src="./assets/portfolio-card.svg" width="100%" alt="Developer Portfolio" />
+</a>
 
-### 💼 Developer Portfolio
+<br />
 
-My development portfolio, currently evolving as I publish more projects related to analytics, automation, software development and technical experimentation.
+A growing project library covering analytics, automation, software development and technical experimentation.
 
-**Focus:**
+**Focus:** Python · Automation · Data solutions · Web development · Technical case studies
 
-- Python and scripting
-- Automation projects
-- Data solutions
-- Web development
-- Technical case studies
-
-[View portfolio →](https://portfolio.epanalytics.cloud/)
-
+[View Developer Portfolio →](https://portfolio.epanalytics.cloud/)
 </td>
 </tr>
 </table>
@@ -136,15 +137,13 @@ Portfolio Growth       Publishing real projects, case studies and documentation
 - Expanding **EP Analytics** as a platform for analytics, automation and AI solutions.
 - Developing the project library in my **developer portfolio**.
 - Creating reusable workflows with **Power Automate, Python and n8n**.
-- Experimenting with **OpenClaw and Hermes Agent** for AI-assisted task execution.
+- Experimenting with AI agents and AI-assisted task execution.
 - Running automation and self-hosted services with **Docker, Linux and Raspberry Pi 5**.
 - Preparing public repositories for analytics, automation, AI and homelab projects.
 
 ---
 
 ## GitHub activity
-
-The cards below are generated from activity visible on my public GitHub repositories.
 
 <div align="center">
 
@@ -159,13 +158,9 @@ The cards below are generated from activity visible on my public GitHub reposito
 
 ## Connect
 
-- [EP Analytics](https://epanalytics.cloud/en)
-- [Developer Portfolio](https://portfolio.epanalytics.cloud/)
-- [LinkedIn](https://www.linkedin.com/in/edwin-y-pedraza-b-/)
-
----
-
 <div align="center">
+
+[EP Analytics](https://epanalytics.cloud/en) · [Developer Portfolio](https://portfolio.epanalytics.cloud/) · [LinkedIn](https://www.linkedin.com/in/edwin-y-pedraza-b-/)
 
 ### Turning business data into intelligent solutions.
 
