@@ -1,0 +1,49 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.55" stop-color="#0B1F33"/>
+      <stop offset="1" stop-color="#0A2A43"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="120" y1="80" x2="1040" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5EEAD4"/>
+      <stop offset="0.5" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="18" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.22 0 0 0 0 0.74 0 0 0 0 0.97 0 0 0 0.32 0"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <circle cx="1010" cy="95" r="145" fill="#38BDF8" opacity="0.14" filter="url(#glow)"/>
+  <circle cx="1080" cy="280" r="120" fill="#A78BFA" opacity="0.12" filter="url(#glow)"/>
+  <path d="M760 70C880 40 1010 60 1130 150" stroke="url(#accent)" stroke-width="2" opacity="0.45"/>
+  <path d="M730 300C870 250 1020 250 1150 310" stroke="url(#accent)" stroke-width="2" opacity="0.25"/>
+  <rect x="72" y="58" width="10" height="244" rx="5" fill="url(#accent)"/>
+  <text x="112" y="125" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700">Edwin Pedraza</text>
+  <text x="112" y="178" fill="#7DD3FC" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600">Business Analytics · AI · Automation</text>
+  <text x="112" y="224" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="22">Turning business data into intelligent solutions.</text>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600">
+    <rect x="112" y="258" width="118" height="38" rx="19" fill="#0F2C3E" stroke="#38BDF8" stroke-opacity="0.55"/>
+    <text x="138" y="283" fill="#BAE6FD">Power BI</text>
+    <rect x="242" y="258" width="92" height="38" rx="19" fill="#102A2A" stroke="#5EEAD4" stroke-opacity="0.55"/>
+    <text x="270" y="283" fill="#99F6E4">SQL</text>
+    <rect x="346" y="258" width="118" height="38" rx="19" fill="#221D37" stroke="#A78BFA" stroke-opacity="0.55"/>
+    <text x="372" y="283" fill="#DDD6FE">Python</text>
+    <rect x="476" y="258" width="128" height="38" rx="19" fill="#0F2C3E" stroke="#38BDF8" stroke-opacity="0.55"/>
+    <text x="502" y="283" fill="#BAE6FD">Docker</text>
+    <rect x="616" y="258" width="150" height="38" rx="19" fill="#102A2A" stroke="#5EEAD4" stroke-opacity="0.55"/>
+    <text x="640" y="283" fill="#99F6E4">AI Agents</text>
+  </g>
+  <g transform="translate(875 115)">
+    <rect x="0" y="0" width="210" height="130" rx="18" fill="#0C1725" stroke="#334155"/>
+    <circle cx="40" cy="35" r="10" fill="#5EEAD4"/>
+    <circle cx="72" cy="35" r="10" fill="#38BDF8"/>
+    <circle cx="104" cy="35" r="10" fill="#A78BFA"/>
+    <path d="M30 78H180" stroke="#334155" stroke-width="10" stroke-linecap="round"/>
+    <path d="M30 78H128" stroke="url(#accent)" stroke-width="10" stroke-linecap="round"/>
+    <path d="M30 105H158" stroke="#1E293B" stroke-width="10" stroke-linecap="round"/>
+    <path d="M30 105H95" stroke="#5EEAD4" stroke-width="10" stroke-linecap="round"/>
+  </g>
+</svg>
